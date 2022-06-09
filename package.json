@@ -1,0 +1,14 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "practice test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
